@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20708AAA23327C8900ADF248 /* CategoryButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20708AA923327C8900ADF248 /* CategoryButtons.swift */; };
 		20A1D29223327828008FA2E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A1D29123327828008FA2E9 /* AppDelegate.swift */; };
 		20A1D29723327828008FA2E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20A1D29523327828008FA2E9 /* Main.storyboard */; };
 		20A1D29923327829008FA2E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20A1D29823327829008FA2E9 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		20708AA923327C8900ADF248 /* CategoryButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryButtons.swift; sourceTree = "<group>"; };
 		20A1D28E23327828008FA2E9 /* TomorrowCloset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TomorrowCloset.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20A1D29123327828008FA2E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20A1D29623327828008FA2E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		20A1D2A423327846008FA2E9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				20708AA923327C8900ADF248 /* CategoryButtons.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20FA53F62332799F0015670D /* MainViewController.swift in Sources */,
+				20708AAA23327C8900ADF248 /* CategoryButtons.swift in Sources */,
 				20A1D29223327828008FA2E9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
